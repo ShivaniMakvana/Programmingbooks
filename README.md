@@ -1,5 +1,5 @@
 # Programmingbooks
-#### Get some books of Java, Python, Kotlin, Swift, C, C++, C# and JavaScript Programming Books.<br/>
+#### Get some books of Java, Python, Kotlin, Swift, Ruby, C, C++, C# and JavaScript Programming Books.<br/>
 >[Programming Books](https://shivanimakvana.github.io/Programmingbooks)
 ---
 
@@ -9,8 +9,5 @@
 
 #### [Programming notes for Professionals](https://books.goalkicker.com)
 
->[ ] Ruby
->
->[ ] PHP 
 
-- Books will be added soon...
+>[ ] PHP Books will be added soon...
